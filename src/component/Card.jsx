@@ -9,7 +9,7 @@ function Card({ cardData, setCartValue }) {
         {/* Card img */}
      {cardData.img1 &&(
          <img
-         src="./public/image/imac.png"
+         src="./image/imac.png"
          className="card-img-top"
          alt="Product"
        />
