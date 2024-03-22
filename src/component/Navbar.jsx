@@ -7,7 +7,7 @@ function Navbar({ cartValue }) {
     <nav className="navbar sticky-top navbar-expand-lg navbar-light bg-light" >
         <div className="container px-4 px-lg-5">
           <a className="navbar-brand" href="#!">
-            <img src="./public/image/logo.png" alt="icon" style={{width:"150px"}} />
+            <img src="./image/logo.png" alt="icon" style={{width:"150px"}} />
           </a>
           <button
             className="navbar-toggler"
